@@ -66,9 +66,13 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
+### 1. data.head() function:
 ![image](https://github.com/ShamRathan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93587823/cc3f4541-62ff-42f8-a28b-2a6388f68f63)
+### 2. data.info():
 ![image](https://github.com/ShamRathan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93587823/9989635e-1b13-423d-8fb8-a18a3802384e)
+### 3. data.isnull().sum() function
 ![image](https://github.com/ShamRathan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93587823/f2f60cec-f4df-4f79-9e5b-2d5dd1f6cb10)
+
 ![image](https://github.com/ShamRathan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93587823/14dcf48e-e4ac-4b68-9102-bc021ca2715e)
 ![image](https://github.com/ShamRathan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93587823/f9b059b2-56d1-4ec1-88a6-5f161ced5f72)
 ![image](https://github.com/ShamRathan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93587823/53bf9a34-30aa-4be2-b116-cdcbbbef1574)
