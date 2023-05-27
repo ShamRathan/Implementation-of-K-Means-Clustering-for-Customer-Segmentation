@@ -74,8 +74,10 @@ plt.title("Customer Segments")
 ![image](https://github.com/ShamRathan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93587823/f2f60cec-f4df-4f79-9e5b-2d5dd1f6cb10)
 
 ![image](https://github.com/ShamRathan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93587823/14dcf48e-e4ac-4b68-9102-bc021ca2715e)
+### 5. KMeans clusters
 ![image](https://github.com/ShamRathan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93587823/f9b059b2-56d1-4ec1-88a6-5f161ced5f72)
 ![image](https://github.com/ShamRathan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93587823/53bf9a34-30aa-4be2-b116-cdcbbbef1574)
+### 6. Customer segments Graph
 ![image](https://github.com/ShamRathan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93587823/6dfff698-6130-4867-a006-430e050471b8)
 
 
